@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/go_template.iml" filepath="$PROJECT_DIR$/.idea/go_template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/simple_load_balancer.iml" filepath="$PROJECT_DIR$/.idea/simple_load_balancer.iml" />
     </modules>
   </component>
 </project>
